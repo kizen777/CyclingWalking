@@ -1,0 +1,43 @@
+# Appendices {#sec-prisma .numbered}
+
+```{css}
+/*| echo: false */
+figcaption {
+  margin: auto;
+  text-align: center;
+}
+# キャプション中央揃え　デフォルトは右揃え，このコード不要
+```
+
+
+```{r}
+#| label: fig-prisma
+#| fig-cap: "PRISMA 2020フローチャート(図番変更方法不明)"
+#| message: false
+#| echo: false
+
+library(consort)
+library(dplyr)
+library(readr)
+
+# データの読み込み (PRISMA 2020 Flowchart)
+dfMeta <- read_csv("data/dfMetaPubMed_final.csv")
+
+out <- consort_plot(data = dfMeta,
+                    orders = c(
+                      Study = "Cycling AND Walking\nHealth Related\nPubMed",
+                      Excl1    = "Excluded",
+                      Study = "Title and Abstract\nRisk of Bias 2.0",
+                      Excl2    = "Excluded",
+                      Study = "Meta-anaysis\n"
+                    ),
+                    side_box = c("Excl1", "Excl2"),
+                    
+                    # labels = c("1" = "Identification",
+                    #            "2" = "Screening",
+                    #            "3" = "Eligibility"),
+                    # 
+                    cex = 0.9)  # ここでラベルの回転を試みる
+
+plot(out)
+```
