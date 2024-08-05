@@ -4,3 +4,8 @@
 .Rhistory
 *_cache/
 *.Rdata
+_book/
+.quarto/
+*.tex
+*.odp
+method_files/

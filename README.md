@@ -1,5 +1,3 @@
-# Cycling vs Walking: A Systematic Review and Meta-Analysis
-
 ## 概要
 このプロジェクトは、サイクリングとウォーキングの健康効果を比較するシステマティックレビューとメタ分析を行うものです。
 
@@ -25,9 +23,17 @@
 プルリクエストは歓迎します。大きな変更の場合は、まずイシューを開いて議論してください。
 
 ## ライセンス
+
 このプロジェクトはMITライセンスの下で公開されています。詳細は[LICENSE](LICENSE)ファイルを参照してください。
+
+
+
 
 ## 連絡先
 [Kizen Sasaki] - [kizen777@osaka-u.net]
 
+
 プロジェクトリンク: https://github.com/kizen777/CyclingWalking
+
+
+
