@@ -1,0 +1,40 @@
+project:
+  type: book
+
+book:
+  title: "サイクリングとウォーキングの健康効果比較：\nシステマティックレビューとメタ分析"
+  subtitle: "The Health and Functional Benefits of Cycling versus Walking Exercise:\n  A Systematic Review and Meta-Analysis"
+  author: "Kizen Sasaki"
+  date: 2024/7/20
+  page-navigation: true
+  chapters:
+    - index.qmd
+    - methods.qmd
+    - result.qmd
+    - summary.qmd
+    - PRISMA.qmd
+    - references.qmd
+
+bibliography: references.bib
+csl: styles/bmj.csl  # スタイルのCSLファイルを使用する例
+link-citations: true
+
+format:
+  html:
+    number-sections: true
+    number-depth: 1
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+    latex-engine: xelatex
+    extra_dependencies: ["fontspec"]
+    mainfont: "Arial Unicode MS"  # 適切なUnicodeフォントを指定
+
+crossref:
+  fig-prefix: "図"
+  fig-title: "図"
+  fig-labels: arabic
+
+language:
+  label:
+    fig: "図"

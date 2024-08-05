@@ -1,0 +1,122 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "サイクリングとウォーキングの健康効果比較： システマティックレビューとメタ分析",
+    "section": "",
+    "text": "1 はじめに\n　近年，生活習慣病の予防や健康増進に対する関心が高まる中，日常的な身体活動の重要性が注目されている[1]。特に，サイクリングとウォーキングは，幅広い年齢層で実践可能な有酸素運動として知られており，日常生活に組み込みやすい利点がある[1,2]。これまでの研究では，両運動形態がそれぞれ心血管健康や代謝機能の改善に寄与することが示されているが[2]，直接比較した包括的な研究は限られている。運動強度や身体への負荷が異なる両者の健康効果の差異を明らかにすることは，効果的な健康増進戦略の立案において重要である。 　本研究では，PubMedデータベースを用いたシステマティックレビューとメタ分析を通じて，サイクリングとウォーキングの健康効果を比較検討する。この方法により，既存の研究結果を統合し，より信頼性の高い結論を導くことを目指す。特に，以下の点に焦点を当てる：\n\n心肺機能に与える影響の差異\n代謝指標に及ぼす効果の比較\n運動強度や頻度による健康効果の違い\n年齢や性別など，個人特性による効果の差異\n\n　本研究の結果は，個人の健康状態や目的に応じた適切な運動形態の選択に貢献し，効果的な健康増進プログラムの開発に寄与することが期待される。\n\n\n\n\n1 厚生労働省. 健康づくりのための身体活動・運動ガイド2023. 2023.\n\n\n2 Laird Y, Kelly P, Brage S, et al. Cycling and walking for individual and population health benefits: A rapid evidence review for health and care system decision-makers. London: Public Health England 2018.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>はじめに</span>"
+    ]
+  },
+  {
+    "objectID": "methods.html",
+    "href": "methods.html",
+    "title": "2  研究方法",
+    "section": "",
+    "text": "対象\n2010年以降に発表された，サイクリングとウォーキングの健康効果を比較した研究論文を対象とした。論文の種類は，ランダム化比較試験，比較研究，コホート研究，横断研究など，幅広い研究デザインを含めた。",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>研究方法</span>"
+    ]
+  },
+  {
+    "objectID": "methods.html#調査方法",
+    "href": "methods.html#調査方法",
+    "title": "2  研究方法",
+    "section": "調査方法",
+    "text": "調査方法\n\n文献検索\n　文献検索にはPubMedデータベースを使用し、以下の検索式を適用した。この検索式は、サイクリングとウォーキングに関連する英語で書かれた文献を特定することを目的としている。具体的には，サイクリングに関する用語（cycling，bicycling，“bicycle riding”，exercise，“physical activity”）がタイトルまたはアブストラクトに含まれる文献を対象とし，さらにウォーキングに関連する用語（walking，“pedestrian activity”）も同様に含む文献を検索する。 加えて，比較研究やコントロール試験のデザインに関連する用語（comparison，comparative，versus，“controlled trial”，“comparative study”）がタイトルまたは出版タイプに含まれる文献を抽出する。健康に関連するアウトカム（health，fitness，“physical function”，“cardiovascular health”，“weight management”，“quality of life”，“mental health”，wellbeing，“physical activity”）についても同様に，タイトルまたはアブストラクトに含まれることが求められる。 さらに，対象は成人，中年，高齢者に関連する用語（adult，“middle aged”，elderly，“older adult”，senior）を含む文献に限定され，2010年以降に発表された論文を対象とする。検索は2024年7月30日に実施した。 　(cycling[Title/Abstract] OR bicycling[Title/Abstract] OR “bicycle riding”[Title/Abstract] OR exercise[Title/Abstract] OR “physical activity”[Title/Abstract]) AND (walking[Title/Abstract] OR “pedestrian activity”[Title/Abstract]) AND (comparison[Title/Abstract] OR comparative[Title/Abstract] OR versus[Title/Abstract] OR “controlled trial”[Publication Type] OR “comparative study”[Publication Type]) AND (health[Title/Abstract] OR fitness[Title/Abstract] OR “physical function”[Title/Abstract] OR “cardiovascular health”[Title/Abstract] OR “weight management”[Title/Abstract] OR “quality of life”[Title/Abstract] OR “mental health”[Title/Abstract] OR wellbeing[Title/Abstract] OR “physical activity”[Title/Abstract]) AND (adult[Title/Abstract] OR “middle aged”[Title/Abstract] OR elderly[Title/Abstract] OR “older adult”[Title/Abstract] OR senior[Title/Abstract]) AND (“2010”[Date - Publication] : “3000”[Date - Publication]) AND English[Language]”\n\n\n文献スクリーニング\n　文献検索の結果，PubMedから642件の論文が抽出された。まず，重複している5件の論文を除外し，636件の論文を対象に以下の2段階のスクリーニングプロセスを実施した。 　第1次スクリーニングでは，タイトルと抄録の情報に基づいて，以下の除外基準に該当する論文を除外した：(1)非英語文献，(2)小児や青少年のみを対象とした研究，(3)レビュー論文，メタ分析，プロトコル論文，(4)症例報告，編者への手紙やコメント。第1次スクリーニングの結果，317件の論文が除外され，319件の論文が残った。 　第2次スクリーニングでは，本文の内容に基づいて，以下の除外基準に該当する論文を除外した：(1)動物実験，in vitro研究，細胞培養研究のみを対象とした研究，(2)分子レベルや遺伝学的研究のみを扱った研究。第2次スクリーニングの結果，139件の論文が除外され，254件の論文が残った。 　次に，残った254件の論文に対して，RoB 2（Risk of Bias 2）[1]ツールを用いてバイアスリスクの評価を行った。その結果，全ての論文が”High risk”と判定されなかったため，254件全てが残った。 　最後に，254件の論文のうち，サイクリングとウォーキングの健康効果を直接比較した研究を抽出したところ，66件の比較研究論文が同定された。これらの論文の中から，本研究の選択基準に合致する17件の論文を最終的に採用した。",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>研究方法</span>"
+    ]
+  },
+  {
+    "objectID": "methods.html#調査期間",
+    "href": "methods.html#調査期間",
+    "title": "2  研究方法",
+    "section": "調査期間",
+    "text": "調査期間\n　2024年6月1日〜2024年8月21日",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>研究方法</span>"
+    ]
+  },
+  {
+    "objectID": "methods.html#倫理的留意",
+    "href": "methods.html#倫理的留意",
+    "title": "2  研究方法",
+    "section": "倫理的留意 　",
+    "text": "倫理的留意 　\n　既往研究のシステマティックレビューとメタ分析であるため，倫理的承認は不要である。",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>研究方法</span>"
+    ]
+  },
+  {
+    "objectID": "methods.html#分析方法",
+    "href": "methods.html#分析方法",
+    "title": "2  研究方法",
+    "section": "分析方法",
+    "text": "分析方法\n　メタ分析は，複数の研究結果を統合し，より信頼性の高い結論を導くために実施した。効果量の指標として標準化平均差（SMD）を用い，研究間の異質性を考慮してランダム効果モデルを採用した。 結果の視覚化にはフォレストプロットを作成し，各研究の効果量とその95%信頼区間，および統合された効果量を示した。 研究間の異質性の評価には，Cochran’s Q検定とI^2\\(統計量を用いた。I^2\\)は0%から100%の値をとり，一般的に25%未満を低度，25-75%を中程度，75%以上を高度の異質性と解釈した。 サブグループ分析では，運動形態（サイクリングとウォーキング），年齢群，介入期間，運動強度などの要因による効果の違いを検討した。 出版バイアスの評価には，ファンネルプロットとEggerの回帰検定を用いた。 感度分析として，研究の質や対象者の特性に基づいて，特定の研究を除外した場合の結果の安定性を検討した。 すべての統計解析と図の作成には，R(version 4.4.1)を用い，主に{meta}パッケージを使用した。有意水準はα=0.05とした。",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>研究方法</span>"
+    ]
+  },
+  {
+    "objectID": "methods.html#バイアス",
+    "href": "methods.html#バイアス",
+    "title": "2  研究方法",
+    "section": "バイアス",
+    "text": "バイアス\n　システマティックレビューは，採用された論文の質を評価することが重要である。本論文では，Cochraneによる Risk of Bias Tool(RoB 2)[1] を採用した。 　RoB2.0は，以下の5つの評価ドメインと総合評価を用いる。(1)ラムダム化のプロセスから生じるバイアス，(2)意図した介入(intention-to-treat)からの逸脱によるバイアス，(3)結果データと欠落によるバイアス，(4)結果の測定におけるバイアス，(5)報告された結果の選択におけるバイアスである。リスクオブバイアス評価は一人の研究者(某氏，Pumrt，Nedib）が行った。用いたRパッケージは{robvis}である。",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>研究方法</span>"
+    ]
+  },
+  {
+    "objectID": "methods.html#報告",
+    "href": "methods.html#報告",
+    "title": "2  研究方法",
+    "section": "報告",
+    "text": "報告\n　本論文の作成に当たっては，PRISMA 2020[2]のガイドラインに従った。\n\n\n\n\n1 Higgins JP, Savović J, Page MJ, et al. Chapter 8: Assessing risk of bias in a randomized trial. 2023.\n\n\n2 David M, Alessandro L, Jennifer T, et al. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. 2010.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>研究方法</span>"
+    ]
+  },
+  {
+    "objectID": "result.html",
+    "href": "result.html",
+    "title": "3  結果",
+    "section": "",
+    "text": "文献の組入は，図1 組入れフローチャートに示す。PubMedの検索結果，xx件の論文がえら得た。タイトルと抄録から，xx件の論文が除外され，xx件の論文がフルテキストで評価された。その結果，xx件の論文が最終的にメタ分析に組入れられた。図1 に示すように，最終的に組入れられた論文は，xx件のRCTとxx件のコホート研究であった。",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>結果</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "4  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "PRISMA.html",
+    "href": "PRISMA.html",
+    "title": "5  Appendices",
+    "section": "",
+    "text": "図 5.1: PRISMA 2020フローチャート(図番変更方法不明)",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Appendices</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "1. 厚生労働省.\n健康づくりのための身体活動・運動ガイド2023 [Internet]. 2023. Available\nfrom: https://www.mhlw.go.jp/content/10904750/001171393.pdf\n\n\n2. Higgins JP, Savović J, Page MJ, Elbers RG,\nSterne JA. Chapter 8: Assessing risk of bias in a randomized trial\n[Internet]. 2023. Available from: https://training.cochrane.org/handbook/current/chapter-08\n\n\n3. David M, Alessandro L, Jennifer T, Altman DG.\nPreferred reporting items for systematic reviews and meta-analyses: The\nPRISMA statement [Internet]. 2010. Available from: https://cir.nii.ac.jp/crid/1363951794048217728",
+    "crumbs": [
+      "References"
+    ]
+  }
+]
